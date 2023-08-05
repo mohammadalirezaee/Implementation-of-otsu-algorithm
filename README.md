@@ -11,9 +11,8 @@ Otsu's Algorithm: We have implemented Otsu's algorithm for thresholding. The alg
 inputs images:
 ![image](https://github.com/mohammadalire94/Implementation-of-otsu-algorithm/assets/103526640/a00b0b47-4b84-46c8-ad2a-cb218f32202b) ![image](https://github.com/mohammadalire94/Implementation-of-otsu-algorithm/assets/103526640/2b751d0b-0587-4197-b919-e0ce3f7fda9a)
 
-
 output images:
-![image](https://github.com/mohammadalire94/Implementation-of-otsu-algorithm/assets/103526640/43af6a31-73eb-4744-b614-e79f52424056) ![Uploading image.png…]()
+![image](https://github.com/mohammadalire94/Implementation-of-otsu-algorithm/assets/103526640/43af6a31-73eb-4744-b614-e79f52424056) 
 
 
 
